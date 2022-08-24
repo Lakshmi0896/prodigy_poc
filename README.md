@@ -32,4 +32,4 @@ Pre-requisites : Java JDK1.8, Maven & Eclipse IDE(Mars and above) should be alre
 
 7.We can see index.html, it can be opened as right click on index.html -> open with -> web browser, where u can see the failed and passed test steps.
 
-8.The framework also takes screenshot incase of any failed testcases, named as embedded0,1,2 and so on.
+8.The framework also takes screenshot incase of any failed testcases.
