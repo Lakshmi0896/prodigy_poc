@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.prodigy.test.ContactUsFormTest" duration-ms="75748" started-at="2022-08-24T08:30:55Z" finished-at="2022-08-24T08:32:11Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="75748" started-at="2022-08-24T08:30:55Z" finished-at="2022-08-24T08:32:11Z">
+      <class name="com.prodigy.test.ContactUsFormTest">
+        <test-method status="PASS" signature="logging()[pri:0, instance:com.prodigy.test.ContactUsFormTest@15975490]" name="logging" is-config="true" duration-ms="858" started-at="2022-08-24T08:30:55Z" finished-at="2022-08-24T08:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logging -->
+        <test-method status="PASS" signature="pageInstantiation()[pri:0, instance:com.prodigy.test.ContactUsFormTest@15975490]" name="pageInstantiation" is-config="true" duration-ms="38" started-at="2022-08-24T08:30:56Z" finished-at="2022-08-24T08:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageInstantiation -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.prodigy.test.ContactUsFormTest@15975490]" name="init" is-config="true" duration-ms="8674" started-at="2022-08-24T08:30:56Z" finished-at="2022-08-24T08:31:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="contact_test()[pri:1, instance:com.prodigy.test.ContactUsFormTest@15975490]" name="contact_test" duration-ms="65365" started-at="2022-08-24T08:31:05Z" finished-at="2022-08-24T08:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact_test -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.prodigy.test.ContactUsFormTest@15975490]" name="tearDown" is-config="true" duration-ms="2" started-at="2022-08-24T08:32:10Z" finished-at="2022-08-24T08:32:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=contact_test status=SUCCESS method=ContactUsFormTest.contact_test()[pri:1, instance:com.prodigy.test.ContactUsFormTest@15975490] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.prodigy.test.ContactUsFormTest@15975490]" name="quit" is-config="true" duration-ms="784" started-at="2022-08-24T08:32:10Z" finished-at="2022-08-24T08:32:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.prodigy.test.ContactUsFormTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.prodigy.test.ContactUsFormTest -->
+</testng-results>

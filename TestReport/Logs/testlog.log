@@ -1,0 +1,145 @@
+2022-08-24T12:56:52,023 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T12:56:55,572 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T12:59:18,124 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T12:59:20,978 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T12:59:26,600 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T12:59:26,608 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T12:59:30,234 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T12:59:30,556 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:01:15,251 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:01:18,424 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:01:24,079 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:01:24,087 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:01:28,037 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:01:28,420 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:02:31,046 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:02:34,082 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:02:39,659 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:02:39,659 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:03:39,965 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:03:40,443 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:05:35,267 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:05:38,145 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:05:43,737 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:05:43,745 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:05:43,823 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:05:44,399 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:08:12,228 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:08:15,134 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:08:25,357 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:08:25,365 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:09:25,456 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:09:26,084 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:10:04,718 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:10:07,525 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:10:14,429 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:10:14,429 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:10:18,189 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:10:18,519 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:12:22,049 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:12:25,195 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:12:30,881 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:12:30,889 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:12:35,735 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:12:36,004 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:13:35,013 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:13:38,013 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:13:43,429 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:13:43,437 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:13:48,210 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:13:48,490 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:15:13,471 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:15:17,141 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:15:22,411 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:15:22,427 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:15:27,524 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:15:27,828 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:16:45,337 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:16:49,247 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:16:54,892 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:16:54,905 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:16:59,382 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:16:59,862 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:17:46,183 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:17:50,205 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:17:55,767 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:17:55,767 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:19:00,719 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:19:01,184 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:21:27,801 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:21:31,436 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:21:37,685 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:21:37,693 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:22:43,033 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:22:43,584 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:25:46,800 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:25:50,540 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:26:00,668 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:26:00,676 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:26:54,281 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:26:54,481 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:27:13,408 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:27:17,051 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:27:23,146 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:27:23,146 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:28:28,470 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:28:28,980 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:28:55,570 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:28:59,263 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:29:05,092 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:29:05,103 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:29:30,061 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:29:30,246 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:35:51,181 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:35:55,304 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:36:02,337 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:36:02,337 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:37:10,276 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:37:10,920 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:42:32,580 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:42:36,458 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:42:44,977 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:42:44,987 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:43:54,107 [main] INFO  (Log.java:22) - Test Ended 
+2022-08-24T13:43:54,115 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:43:54,121 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:46:19,129 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:46:23,652 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:46:29,249 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:46:29,255 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:47:36,317 [main] INFO  (Log.java:22) - Test Ended 
+2022-08-24T13:47:36,330 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:47:36,332 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:48:45,765 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:48:50,311 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:48:55,735 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:48:55,741 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:49:11,960 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:49:12,142 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:49:33,028 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:49:37,023 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:49:42,870 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:49:42,876 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:51:43,331 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:51:43,613 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:52:27,193 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:52:31,805 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:52:37,409 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:52:37,413 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:53:44,920 [main] INFO  (Log.java:22) - Test Ended 
+2022-08-24T13:53:44,930 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:53:44,932 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T13:54:34,463 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T13:54:38,391 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T13:54:43,918 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T13:54:43,928 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T13:55:51,203 [main] INFO  (Log.java:22) - Test Ended 
+2022-08-24T13:55:51,210 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T13:55:51,214 [main] INFO  (Log.java:22) - Inside After Class
+2022-08-24T14:00:56,496 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-24T14:00:59,526 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-24T14:01:05,170 [main] INFO  (Log.java:22) - Test Started 
+2022-08-24T14:01:05,176 [main] INFO  (Log.java:22) - Method to Test
+2022-08-24T14:02:10,532 [main] INFO  (Log.java:22) - Test Ended 
+2022-08-24T14:02:10,536 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-24T14:02:10,538 [main] INFO  (Log.java:22) - Inside After Class
